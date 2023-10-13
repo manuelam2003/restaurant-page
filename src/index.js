@@ -1,1 +1,3 @@
-console.log("soy pepe2");
+import initializeWebsite from "./website";
+
+initializeWebsite();

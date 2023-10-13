@@ -1,1 +1,1 @@
-console.log("soy pepe2");
+(()=>{"use strict";!function(){const e=document.getElementById("content"),n=document.createElement("h1");n.innerText="Alvarez's Pizza",e.appendChild(n);const t=new Image;t.src="images/pizza.jpg",e.appendChild(t);const c=document.createElement("p");c.innerHTML="This pizza rocks",e.appendChild(c)}()})();
